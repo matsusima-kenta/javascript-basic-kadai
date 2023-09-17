@@ -1,4 +1,4 @@
-const kadai = (square) =>{
-  console.log(square*square);
+const square = (num) =>{
+  console.log(num*num);
 }
-kadai (5);
+square (5);
